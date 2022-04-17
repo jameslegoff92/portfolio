@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋  I'm a Front-End Developer located in Canada. I have a serious passion for writing clean code, creating pixel perfect websites and outstanding user experiences.  Disciplined, well-organized and a dedicated problem solver. An optimist who loves the outdoors, sports, anime and too many other things to list in this small bio. Interested in the entire front-end spectrum and working on ambitious projects with positive people.",
+      "description": "👋  I'm a frontend developer located in Canada who has a serious passion for writing clean code, creating pixel perfect websites and outstanding user experiences. I am a self-taught developer, a title I'm incredibly proud of. In my opinion it shows my dedication and displine to the field, and my ability to solve problems independently. I'm interested in the entire front-end spectrum, from CSS methodologies to AR user experiences. Branded an optimist, I enjoy working on ambitious projects with positive people.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,59 +11,13 @@
     },
     "projects": [
       {
-        "title": "Space Website",
-        "startDate": "2022",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/1.space/p1.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML5"
-          },
-          {
-            "class": "devicon-sass-original",
-            "name": "Sass"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Tic Tac Toe App",
-        "startDate": "2022",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/2.tictactoe/p1.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML5"
-          },
-          {
-            "class": "devicon-sass-original",
-            "name": "Sass"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
         "title": "Tip Calculator App",
         "startDate": "2022",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Never struggle splitting the tip again. Splitter does all the calculations so you don't have too.",
         "images": [
-          "images/portfolio/3.tip-calculator/p1.jpg"
+          "/images/portfolio/3.tip-calculator/p1.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://jameslegoff92.github.io/tip-calculator-app/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -82,9 +36,9 @@
       {
         "title": "Github User Search App",
         "startDate": "2022",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "Find a github user quickly by using this quick user account lookup.",
         "images": [
-          "images/portfolio/4.github-user-search/p1.jpg"
+          "/images/portfolio/4.github-user-search/p1.jpg"
         ],
         "url": "https://jameslegoff92.github.io/github-userseach-app/",
         "technologies": [
@@ -105,9 +59,9 @@
       {
         "title": "Sunnyside Landing Page",
         "startDate": "2021",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Landing page for a digital marketing company.",
         "images": [
-          "images/portfolio/6.sunnyside/p1.jpg"
+          "/images/portfolio/6.sunnyside/p1.jpg"
         ],
         "url": "https://jameslegoff92.github.io/Sunny-landing-page/",
         "technologies": [
@@ -128,9 +82,9 @@
       {
         "title": "Typemaster Landing Page",
         "startDate": "2021",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "Product landing page.",
         "images": [
-          "images/portfolio/5.typemaster/p1.jpg"
+          "/images/portfolio/5.typemaster/p1.jpg"
         ],
         "url": "https://jameslegoff92.github.io/typemaster-landing-page/",
         "technologies": [

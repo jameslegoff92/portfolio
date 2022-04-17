@@ -5,13 +5,13 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/jameslegoff92",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "frontend mentor",
+          "url": "https://www.frontendmentor.io/profile/jameslegoff92",
+          "class": "fa-regular fa-user"
         }
       ],
       "image": "myProfile.jpg"
